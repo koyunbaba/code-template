@@ -1,8 +1,8 @@
-#define	N				16
-#define BUF_IN_SIZE		1024
-#define BUF_OUT_SIZE	1024
-#define DDR_IN_SIZE		(BUF_IN_SIZE * N)
-#define DDR_OUT_SIZE	(BUF_OUT_SIZE *N)
+#define	N               16
+#define BUF_IN_SIZE     1024
+#define BUF_OUT_SIZE    1024
+#define DDR_IN_SIZE     (BUF_IN_SIZE * N)
+#define DDR_OUT_SIZE    (BUF_OUT_SIZE *N)
 
 // Memory in RAM
 int ram_in[BUF_IN_SIZE * 2];
