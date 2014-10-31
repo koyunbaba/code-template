@@ -1,4 +1,4 @@
-#define	N				      16
+#define	N				16
 #define BUF_IN_SIZE		1024
 #define BUF_OUT_SIZE	1024
 #define DDR_IN_SIZE		(BUF_IN_SIZE * N)
